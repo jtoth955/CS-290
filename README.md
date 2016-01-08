@@ -1,1 +1,1 @@
-# Repository for CS-290 assignments
+#CS-290
